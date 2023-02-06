@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100&family=Rubik:ital,wght@0,300;1,300&display=swap');
+
+/*@import "nullstyle.scss";
+*/
+body{
+  font-family: 'Rubik', sans-serif; 
+  background-image: url('fond.jpg');
+  background-size: cover;
+  text-align: center;
+  color: white;
+
+}
